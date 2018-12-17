@@ -25,7 +25,7 @@
       "versions" : ["18.1.0", "18.2.0"],
       "plugin" : {
         "internalName" : "NL.APEXCONSULTING.IG_EXTEND_TOOLBAR",
-        "type" : "Dynamic Action",
+        "type" : "dynamic action",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=131155:3",
         "previewImage" : "https://github.com/APEXGru/ExtendToolbarInputFIeld/raw/master/preview.png"
       }
