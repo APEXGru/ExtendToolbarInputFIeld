@@ -1,6 +1,6 @@
 {
   "name" : "Extend IG Toolbar with Input Field",
-  "version" : "v1.0.0",
+  "version" : "1.0.0",
   "description" : "Adds an Input Field to the IG Toolbar.",
   "keywords" : ["Grid","Toolbar"],
   "homepage" : "https://github.com/APEXGru/ExtendToolbarInputFIeld",
